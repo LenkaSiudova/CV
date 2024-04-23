@@ -9,8 +9,8 @@
 }
 
 body {
-  background: #2f2d36;
-  --bg-color:blue #2e2d36;
+  background:blue;
+  --bg-color:blue;
   --bg-size: 20px;
   --bg-position: calc(var(--bg-size) / 2);
   --main-text-color: snow;
